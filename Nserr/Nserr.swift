@@ -1,9 +1,4 @@
-//
-//  iOdoApp.swift
-//  iOdo
-//
 //  Created by Philipp Torchinskiy on 28.9.2024.
-//
 
 import SwiftUI
 

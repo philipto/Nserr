@@ -1,0 +1,9 @@
+name: Nserr
+options:
+  bundleIdPrefix: com.keepdev
+targets:
+  Nserr:
+    type: application
+    platform: iOS
+    sources: Nserr
+    resources: Nserr
